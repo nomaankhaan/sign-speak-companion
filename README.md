@@ -38,3 +38,7 @@ To add dynamic gestures, separately add both parts of the gesture to the CSV (e.
 
 1. Run data_collector.py and toggle to mode 1 by pressing the k key to turn on Detecting mode.
 2. Perform the gesture in front of the camera, and the results will be visible in the camera frame.
+
+## Research Paper
+
+[Research Link](https://www.ijirmf.com/wp-content/uploads/IJIRMF202405004-min.pdf)
